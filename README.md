@@ -1,5 +1,5 @@
 # nitr-building-classification
-#Building classification is pivotal in various applica-
+# Building classification is pivotal in various applica-
 tions, such as urban planning, navigation, and campus man-
 agement. This paper presents a novel approach for building
 classification using a transformer-based model. The proposed
